@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "@astrojs/solid-js": "^5.1.0",
+    "@tailwindcss/vite": "^4.1.10",
     "astro": "^5.9.2",
-    "solid-js": "^1.9.5"
+    "daisyui": "^5.0.43",
+    "solid-js": "^1.9.5",
+    "tailwindcss": "^4.1.10"
   }
 }
