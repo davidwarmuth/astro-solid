@@ -21,7 +21,7 @@ importers:
         specifier: ^5.0.43
         version: 5.0.43
       solid-js:
-        specifier: ^1.9.5
+        specifier: ^1.9.7
         version: 1.9.7
       tailwindcss:
         specifier: ^4.1.10

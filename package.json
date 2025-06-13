@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "astro-solid-daisy",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -13,7 +13,7 @@
     "@tailwindcss/vite": "^4.1.10",
     "astro": "^5.9.2",
     "daisyui": "^5.0.43",
-    "solid-js": "^1.9.5",
+    "solid-js": "^1.9.7",
     "tailwindcss": "^4.1.10"
   }
 }
